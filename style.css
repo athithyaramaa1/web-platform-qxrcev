@@ -1,0 +1,23 @@
+*{
+  text-align: left;
+}
+
+span {
+  color: blueviolet;
+}
+
+h1 {
+  color: aquamarine;
+}
+
+h2 {
+  color: blue;
+}
+
+div {
+  color: tomato;
+}
+
+*{
+  background-color: black;
+}
